@@ -65,4 +65,5 @@ contract PupperCoinSaleDeployer {
         token.addMinter(token_sale_address);
         token.renounceMinter();
     }
+
 }
